@@ -1,6 +1,10 @@
 # arch-linux-apple-emojis
 Apple Emojis (iOS 12) for Arch Linux
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/chrisdruta/arch-linux-apple-emojis/master/scrot.png" width="60%">
+</p>
+
 ## Install
 
 1. Remove any emoji configs from `/etc/fonts/conf.d/`
